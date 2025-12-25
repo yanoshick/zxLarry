@@ -1,0 +1,50 @@
+ZX-7 
+
+PUBLISHER: Ultrasoft 1991
+
+PRODUCER: Bytepack (Jan Deak) 1988
+
+-------------------------------------------------------------------
+
+Po nahrani programu ihned zastavime magnetofon. Nejprve
+vyzkousime nahrat prvni demonstracni skladbu. Podle pred-
+chazejicich instrukci zvolime funkci LOAD. Po stlaceni
+klavesy 'vyber' (strelba na joysticku) napis MENU ve spodni
+casti obrazovky zhasne. Potom zapneme magnetofon a pockame,
+az se skladba nahraje. Pokud by se vyskytla v prubehu
+nahravani chyba, popripade by byla stlacena klavesa BREAK,
+zacne blikat napis BREAK-ERROR. PO uspesnem nahrani se
+znovu rozsviti napis MENU. Zvolime funkci TEMPO a indikator
+vlevo dole nastavime zhruba do stredu rozsahu. Do menu se
+vratime klavesou 'dolu/zpet do menu'. Zvolime funkci PLAY
+a pocitac zacne skladbu hrat. Funkce SLOW-PLAY skladbu
+prehrava pomalu, pricemz jednotlive tony ukazuje na 
+klaviature. Stejnym zpusobem je mozne nahrat a poslechnout
+si i ostatni skladby. Pred nahranim nove skladby je treba
+vzdy pouzit funkci CLEAR na vymazani stare skladby.
+
+Kdyz chceme psat novou skladbu, zvolime funkci SET. Po
+klaviature se pohybujeme po tonech pomoci klaves 'vlevo'
+a 'vpravo', pricemz nasi aktualni pozice oznacuje mala
+carka. Vsechny dalsi ovladaci prvky jsou zobrazene v horni
+casti obrazovky. Smerova hvezdice oznacena ve stredu napisem
+FIRE znamena, ze je treba stlacit pozadovany smer zaroven
+s klavesou 'vyber' (strelba na joysticku). Pro sikme volby
+na druhe hvezdici je nutne stlacit soucasne dve klavesy
+(sikmy smer na joysticku). Priklad: funkci RYCHLE VPRED
+vyvolame soucasnym stlacenim klaves 'dolu' a 'vpravo'
+(sikmo vpravo dolu na joysticku).
+
+Pocitadlo jednotlivych kroku (not) je provedeno v
+sestnactkove (hexadecimalni) ciselne soustave.
+
+CISLO
+10-kove: 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17
+16-kove: 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F 10 11
+atd...
+
+Po napsani nove skladby se zpatky do menu dostanete
+soucasnym stlacenim klaves 'nahoru' a 'vpavo' (sikmo
+vpravo nahoru na joysticku). Skladbu potom muzete
+nahrat funkci SAVE na magnetofonovou pasku a nahravku
+overit funkci VERIFY.
